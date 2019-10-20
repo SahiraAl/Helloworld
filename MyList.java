@@ -10,7 +10,7 @@ public class MyList {
 		// String[] objName = new String [5];
 		//String abc = new String ("hello");
 		ArrayList<String>strList = new ArrayList<String>();
-		strList.add("James");// we add James to the list
+		strList.add("T");// we add James to the list
 		strList.add("Jos");
 		strList.add("Jim");
 		strList.add("Jane");
